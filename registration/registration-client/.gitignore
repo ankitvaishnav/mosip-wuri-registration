@@ -1,0 +1,11 @@
+/target/
+
+#not ignore files
+!jfxrt.jar
+/PacketStore/*
+/PreRegPacketStore/*
+/reg_new/
+/reg_new_updated/
+/db/
+/props/
+/MANIFEST.MF

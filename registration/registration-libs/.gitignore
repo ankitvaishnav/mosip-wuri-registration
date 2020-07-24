@@ -1,0 +1,4 @@
+/target/
+
+#not ignore files
+!jfxrt.jar
