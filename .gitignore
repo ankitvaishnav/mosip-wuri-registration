@@ -1,4 +1,10 @@
+/db
+logs
 /target/
-**/*.iml
-/.idea/
-.vscode
+.idea
+/*.log
+*.iml
+/registration/*.iml
+/registration/registration-client/*.iml
+/registration/registration-libs/registration-libs.iml
+/registration/registration-services/registration-services.iml
